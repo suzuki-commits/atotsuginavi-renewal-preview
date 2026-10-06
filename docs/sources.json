@@ -1,0 +1,51 @@
+{
+  "updated": "2026-10-06",
+  "sources": [
+    {
+      "url": "https://atotsuginavi.briedge.co.jp/",
+      "role": "primary",
+      "confirmed": [
+        "アトツギナビのサービス主体と、人事評価制度構築支援という提供領域",
+        "二代目・三代目経営者を主な対象とすること",
+        "公式問い合わせフォームのURL",
+        "運営会社名",
+        "所在地・電話番号・メールアドレス"
+      ]
+    },
+    {
+      "url": "https://briedge.co.jp/",
+      "role": "primary",
+      "confirmed": [
+        "会社情報リンク先"
+      ]
+    },
+    {
+      "url": "https://briedge.co.jp/privacypolicy/",
+      "role": "primary",
+      "confirmed": [
+        "プライバシーポリシーリンク"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "local_file": "./assets/official-illustration.webp",
+      "source_page": "https://atotsuginavi.briedge.co.jp/",
+      "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/rROnYAekWA/s-897x798_v-fs_webp_79975260-c577-4290-b3df-3bb27f9def3c_small.webp",
+      "usage": "ヘッダーとフッターの公式ロゴ",
+      "intrinsic_size": "600x533"
+    },
+    {
+      "local_file": "./assets/official-401.svg",
+      "source_page": "https://atotsuginavi.briedge.co.jp/",
+      "source_url": "https://storage.googleapis.com/studio-design-asset-files/projects/rROnYAekWA/s-401x370_c3171a70-612b-4257-b067-efa8ee6a7263.svg",
+      "usage": "ヒーローの人事評価イラスト",
+      "intrinsic_size": "401x370"
+    }
+  ],
+  "editorial_notes": [
+    "事例、実績数値、無料、成果保証は掲載していません。",
+    "相談テーマの選択はブラウザ内の表示更新だけで、データは送信しません。",
+    "問い合わせは既存の公式フォームへ遷移します。"
+  ]
+}
